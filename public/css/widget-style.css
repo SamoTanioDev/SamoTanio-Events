@@ -1,0 +1,35 @@
+.samotanio-events-widget {
+    margin-bottom: 20px;
+    border: 1px solid #fff;
+    padding: 10px;
+    transition: all .3s;
+    color: #666;
+}
+
+.samotanio-events-date {
+    font-size: 36px;
+    width: 60px;
+    float: left;
+}
+
+.samotanio-events-date span {
+    font-size: 12px;
+    display: block;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+
+.samotanio-events-content {
+    margin-left: 60px;
+}
+
+.samotanio-events-event-title {
+    display: block;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.samotanio-events-hours {
+    display: block;
+    font-size: 12px;
+}
